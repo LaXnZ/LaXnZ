@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/D5616AQF__vgcZjxVgw/profile-displaybackgroundimage-shrink_350_1400/0/1664433692873?e=1689811200&v=beta&t=D7664NgngpygRl5i-uwSIchhAYfozWdK8ql0_sPfcw4)
-<h1 align="center">Hi 👋, I'm Sumuditha Lansakara</h1>
+<h1 align="center">Hi, I'm Sumuditha Lansakara</h1>
 <h3 align="center">Software engineering undergraduate @APIIT Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif"/>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/QWdPngpHxZ8AAAAd/family-guy-css.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laxnz&label=Profile%20views&color=0e75b6&style=flat" alt="laxnz" /> </p>
 
@@ -9,9 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **MERN**
-
-- 📫 How to reach me **sumudithalanz@gmail.com**
+- 📫 Reach me : **sumudithalanz@gmail.com**
 
 - ⚡ Love to play online competitive games
 
