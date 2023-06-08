@@ -4,15 +4,14 @@
 <br>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/QWdPngpHxZ8AAAAd/family-guy-css.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=laxnz&label=Profile%20views&color=0e75b6&style=flat" alt="laxnz" /> </p>
 
-- 🔭 Currently Working on [Saverly Expenses Tracker Web-App](https://github.com/LaXnZ/expenses-tracker-backend)
 
-- 🌱 Currently Learning **MERN Stack**
+- Currently Working on [Saverly Expenses Tracker Web-App](https://github.com/LaXnZ/expenses-tracker-backend)
 
-- 📫 Reach me @**sumudithalanz@gmail.com**
+- Currently Learning **MERN Stack**
 
-- ⚡ Love to Play Online Competitive Games
+- Reach me @**sumudithalanz@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
