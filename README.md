@@ -1,9 +1,8 @@
 ![MasterHead](https://media.licdn.com/dms/image/D5616AQF__vgcZjxVgw/profile-displaybackgroundimage-shrink_350_1400/0/1664433692873?e=1689811200&v=beta&t=D7664NgngpygRl5i-uwSIchhAYfozWdK8ql0_sPfcw4)
 <h1 align="center">Hi, I'm Sumuditha Lansakara</h1>
 <h3 align="center">Software Engineering Undergraduate @APIIT Sri Lanka</h3>
-
+<br>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/QWdPngpHxZ8AAAAd/family-guy-css.gif"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaXnZ&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
@@ -17,3 +16,5 @@
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,expressjs,mongodb,postman" /></a>
 </p>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaXnZ&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
