@@ -2,7 +2,8 @@
 <h1 align="center">Hi, I'm Sumuditha Lansakara</h1>
 <h3 align="center">Software Engineering Undergraduate @APIIT Sri Lanka</h3>
 <br>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/QWdPngpHxZ8AAAAd/family-guy-css.gif"/>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/w0v-KYiUNXoAAAAd/family-guy-peter-griffin.gif"/>
+
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
