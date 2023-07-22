@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D5616AQF__vgcZjxVgw/profile-displaybackgroundimage-shrink_350_1400/0/1664433692873?e=1689811200&v=beta&t=D7664NgngpygRl5i-uwSIchhAYfozWdK8ql0_sPfcw4)
+
 <h1 align="center">Hi, I'm Sumuditha Lansakara</h1>
 <h3 align="center">Software Engineering Undergraduate @APIIT Sri Lanka</h3>
 <br>
