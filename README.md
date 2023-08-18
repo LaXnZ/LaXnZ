@@ -20,4 +20,6 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=laxnz&show_icons=true&theme=dark&locale=en&layout=compact" alt="laxnz" /></p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaXnZ&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=laxnz&show_icons=true&theme=dark&cache_seconds=1800&locale=en" alt="dexow" /></p>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=laxnz&theme=dark" alt="laxnz" /></p>
