@@ -11,7 +11,7 @@
 </p>
 <br>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/w0v-KYiUNXoAAAAd/family-guy-peter-griffin.gif"/>
-
+<br>
 <p align="left">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,mongodb,postman" /></a>
