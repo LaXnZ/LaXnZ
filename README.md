@@ -18,19 +18,19 @@
 </div>
 
 <h3>Tech Stack</h3>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,mongodb,postman" alt="Tech Stack" />
   </a>
 </p>
 
 <h3>GitHub Stats</h3>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laxnz&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
 </p>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=laxnz&show_icons=true&theme=dark&cache_seconds=1800&locale=en" alt="GitHub Stats" />
 </p>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=laxnz&theme=dark" alt="GitHub Streak" />
 </p>
