@@ -26,25 +26,25 @@
 <div align="center">
   <h3>Tech Stack</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,mongodb,postman" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,mongodb,postman,aws,flutter,github,laravel,vscode,sqlite" alt="Tech Stack" />
   </a>
 </div>
 
 <br>
 
-<div align="center">
+<div align="left">
   <h3>GitHub Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laxnz&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
 </div>
 
 <br>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=laxnz&show_icons=true&theme=dark&cache_seconds=1800&locale=en" alt="GitHub Stats" />
 </div>
 
 <br>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=laxnz&theme=dark" alt="GitHub Streak" />
 </div>
