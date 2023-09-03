@@ -1,9 +1,9 @@
-<div align="center">
+<div align="left">
   <h1>Sumuditha Lansakara</h1>
   <h3>Software Engineering Undergraduate @ APIIT Sri Lanka</h3>
 </div>
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/sumuditha-lansakara/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
@@ -17,7 +17,7 @@
 
 <br>
 
-<div align="center">
+<div align="left">
   <img align="center" alt="Coding" width="400" src="https://media.tenor.com/w0v-KYiUNXoAAAAd/family-guy-peter-griffin.gif" />
 </div>
 
@@ -26,11 +26,14 @@
 <div align="left">
   <h3>Tech Stack</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,mongodb,postman" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,mongodb" alt="Tech Stack" />
    
   </a>
+</div>
+
+<div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,flutter,github,laravel,vscode,sqlite" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=aws,flutter,github,laravel,vscode,sqlite,postman" alt="Tech Stack" />
   </a>
 </div>
 
