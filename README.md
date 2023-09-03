@@ -27,6 +27,9 @@
   <h3>Tech Stack</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,mongodb,postman" alt="Tech Stack" />
+   
+  </a>
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,flutter,github,laravel,vscode,sqlite" alt="Tech Stack" />
   </a>
 </div>
