@@ -14,7 +14,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
    <a href="https://www.npmjs.com/~laxnz" target="_blank">
-    <img src="https://en.vetores.org/wp-content/uploads/npm.png" alt="YouTube" height="30" width="40" />
+    <img src="https://static-00.iconduck.com/assets.00/npm-icon-1024x1024-ron80n8h.png" alt="NPM" height="30" width="40" />
   </a>
 </div>
 
