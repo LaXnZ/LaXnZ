@@ -11,7 +11,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" style="margin-right: 10px;" />
   </a>
   <a href="https://www.youtube.com/channel/UCBo51UOLgHCtbK-qOAsIwwg" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" style="margin-right: 10px;" />
   </a>
    <a href="https://www.npmjs.com/~laxnz" target="_blank">
     <img src="https://static-00.iconduck.com/assets.00/npm-icon-1024x1024-ron80n8h.png" alt="NPM" height="30" width="40" />
