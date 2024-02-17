@@ -4,16 +4,17 @@
 </div>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/sumuditha-lansakara/" target=" blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/sumuditha-lansakara/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right: 10px;" />
   </a>
-  <a href="https://stackoverflow.com/users/21833157/sumuditha-lansakara" target=" blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
+  <a href="https://stackoverflow.com/users/21833157/sumuditha-lansakara" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" style="margin-right: 10px;" />
   </a>
-  <a href="https://www.youtube.com/channel/UCBo51UOLgHCtbK-qOAsIwwg" target=" blank">
+  <a href="https://www.youtube.com/channel/UCBo51UOLgHCtbK-qOAsIwwg" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
 </div>
+
 
 <br>
 
