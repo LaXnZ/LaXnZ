@@ -13,6 +13,9 @@
   <a href="https://www.youtube.com/channel/UCBo51UOLgHCtbK-qOAsIwwg" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
+   <a href="https://www.npmjs.com/~laxnz" target="_blank">
+    <img src="https://en.vetores.org/wp-content/uploads/npm.png" alt="YouTube" height="30" width="40" />
+  </a>
 </div>
 
 
