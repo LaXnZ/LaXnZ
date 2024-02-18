@@ -17,7 +17,7 @@
     <img src="https://static-00.iconduck.com/assets.00/npm-icon-1024x1024-ron80n8h.png" alt="NPM" height="30" width="40" />
   </a>
   <a href="https://medium.com/@sumudithalanz" target="_blank">
-    <img src="https://user-images.githubusercontent.com/36799589/96227773-3acc6080-0fb2-11eb-837f-f5026d472969.jpg" alt="NPM" height="30" width="40" />
+    <img src="https://user-images.githubusercontent.com/36799589/96227773-3acc6080-0fb2-11eb-837f-f5026d472969.jpg" alt="NPM" height="30" width="60" />
   </a>
 </div>
 
