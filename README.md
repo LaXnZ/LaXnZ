@@ -33,14 +33,14 @@
 <div align="left">
   <h3>Tech Stack</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,mongodb" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,mongodb,discord,firebase,flutter,stackoverflow" alt="Tech Stack" />
    
   </a>
 </div>
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,flutter,github,laravel,vscode,sqlite,postman" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=aws,flutter,git,github,laravel,vscode,sqlite,postman,figma,npm,postgres,vscode" alt="Tech Stack" />
   </a>
 </div>
 
