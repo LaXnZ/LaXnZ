@@ -33,7 +33,7 @@
 <div align="left">
   <h3>Tech Stack</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,mongodb,discord,firebase,flutter,stackoverflow" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,mongodb,discord,firebase,flutter,stackoverflow&theme=dark" alt="Tech Stack" />
    
   </a>
 </div>
