@@ -40,7 +40,7 @@
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,flutter,git,github,laravel,vscode,sqlite,postman,figma,npm,postgres,vscode&theme=light" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=aws,flutter,git,github,laravel,vscode,sqlite,postman,figma,npm,postgres,vscode&theme=dark" alt="Tech Stack" />
   </a>
 </div>
 
