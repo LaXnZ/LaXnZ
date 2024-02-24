@@ -6,19 +6,19 @@
 <div align="left">
   <h3>Connect with me </h3>
   <a href="https://www.linkedin.com/in/sumuditha-lansakara/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right: 10px;" />
+    <img src="https://static.vecteezy.com/system/resources/previews/023/986/926/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" alt="LinkedIn" height="30" width="40" style="margin-right: 10px;" />
   </a>
   <a href="https://stackoverflow.com/users/21833157/sumuditha-lansakara" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" style="margin-right: 10px;" />
+    <img src="https://static-00.iconduck.com/assets.00/stack-overflow-icon-2048x2048-7ohycn5z.png" alt="Stack Overflow" height="30" width="40" style="margin-right: 10px;" />
   </a>
   <a href="https://www.youtube.com/channel/UCBo51UOLgHCtbK-qOAsIwwg" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" style="margin-right: 10px;" />
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/youtube-app-white-icon.png" alt="YouTube" height="30" width="40" style="margin-right: 10px;" />
   </a>
    <a href="https://www.npmjs.com/~laxnz" target="_blank">
-    <img src="https://static-00.iconduck.com/assets.00/npm-icon-1024x1024-ron80n8h.png" alt="NPM" height="30" width="40" />
+    <img src="https://static-00.iconduck.com/assets.00/npm-icon-1024x1024-ron80n8h.png" alt="NPM" height="40" width="40" />
   </a>
   <a href="https://medium.com/@sumudithalanz" target="_blank">
-    <img src="https://user-images.githubusercontent.com/36799589/96227773-3acc6080-0fb2-11eb-837f-f5026d472969.jpg" alt="NPM" height="30" width="55" />
+    <img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" alt="NPM" height="30" width="55" />
   </a>
 </div>
 
