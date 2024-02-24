@@ -6,7 +6,7 @@
 <div align="left">
   <h3>Connect with me </h3>
   <a href="https://www.linkedin.com/in/sumuditha-lansakara/" target="_blank">
-    <img src="https://static.vecteezy.com/system/resources/previews/023/986/926/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" alt="LinkedIn" height="30" width="40" style="margin-right: 10px;" />
+    <img src="https://static.vecteezy.com/system/resources/previews/023/986/926/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" alt="LinkedIn" height="40" width="40" style="margin-right: 10px;" />
   </a>
   <a href="https://stackoverflow.com/users/21833157/sumuditha-lansakara" target="_blank">
     <img src="https://static-00.iconduck.com/assets.00/stack-overflow-icon-2048x2048-7ohycn5z.png" alt="Stack Overflow" height="30" width="40" style="margin-right: 10px;" />
