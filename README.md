@@ -6,13 +6,13 @@
 <div align="left">
   <h3>Connect with me </h3>
   <a href="https://www.linkedin.com/in/sumuditha-lansakara/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" style="margin-right: 20px;" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
   </a>
   <a href="https://stackoverflow.com/users/21833157/sumuditha-lansakara" target="_blank">
-    <img src="https://skillicons.dev/icons?i=stackoverflow&theme=dark" alt="Stack Overflow" style="margin-right: 20px;" />
+    <img src="https://skillicons.dev/icons?i=stackoverflow&theme=dark" alt="Stack Overflow" />
   </a>
    <a href="https://www.npmjs.com/~laxnz" target="_blank">
-    <img src="https://skillicons.dev/icons?i=npm&theme=dark" alt="NPM" style="margin-right: 20px;" />
+    <img src="https://skillicons.dev/icons?i=npm&theme=dark" alt="NPM" />
   </a>
 
 </div>
