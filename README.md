@@ -1,8 +1,10 @@
 <div align="left">
   <h1>Hi 👋, I'm Sumuditha Lansakara</h1>
 </div>
-<hr>
+
+
 <div align="left">
+  <h4>Connect with me </h4>
   <a href="https://www.linkedin.com/in/sumuditha-lansakara/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right: 10px;" />
   </a>
@@ -30,7 +32,7 @@
 <br>
 
 <div align="left">
-  <h3>Tech Stack</h3>
+  <h3>Tools and Technologies</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,mongodb,discord,firebase,flutter,stackoverflow&theme=dark" alt="Tech Stack" />
    
