@@ -1,8 +1,7 @@
 <div align="left">
-  <h1>Sumuditha Lansakara</h1>
-  <h3>Software Engineering Undergraduate @ APIIT Sri Lanka</h3>
+  <h1>Hi 👋, I'm Sumuditha Lansakara</h1>
 </div>
-
+<hr>
 <div align="left">
   <a href="https://www.linkedin.com/in/sumuditha-lansakara/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right: 10px;" />
