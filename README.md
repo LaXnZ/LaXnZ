@@ -60,5 +60,5 @@
 </div>
 
 <div align="left">
-  [![LaXnZ's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LaXnZ)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LaXnZ&theme=dark" alt="GitHub Streak" />
 </div>
