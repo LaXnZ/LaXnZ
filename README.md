@@ -60,5 +60,5 @@
 </div>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?laxnz=ffflabs" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=laxnz" alt="GitHub Stats" />
 </div>
