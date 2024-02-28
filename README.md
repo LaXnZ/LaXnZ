@@ -59,6 +59,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=laxnz&theme=dark" alt="GitHub Streak" />
 </div>
 
+<br>
+
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LaXnZ&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=laxnz&theme=dark" alt="GitHub Streak" />
 </div>
