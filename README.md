@@ -60,5 +60,5 @@
 </div>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=laxnz" alt="GitHub Stats" />
+  [![LaXnZ's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LaXnZ)](https://github.com/anuraghazra/github-readme-stats)
 </div>
