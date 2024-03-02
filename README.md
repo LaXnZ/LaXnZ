@@ -2,7 +2,6 @@
   <h1>Hi 👋, I'm Sumuditha Lansakara</h1>
 </div>
 
-
 <div align="left">
   <h3>Connect with me </h3>
   <a href="https://www.linkedin.com/in/sumuditha-lansakara/" target="_blank">
@@ -11,33 +10,36 @@
   <a href="https://stackoverflow.com/users/21833157/sumuditha-lansakara" target="_blank">
     <img src="https://skillicons.dev/icons?i=stackoverflow&theme=dark" alt="Stack Overflow" />
   </a>
-   <a href="https://www.npmjs.com/~laxnz" target="_blank">
+  <a href="https://www.npmjs.com/~laxnz" target="_blank">
     <img src="https://skillicons.dev/icons?i=npm&theme=dark" alt="NPM" />
   </a>
-
 </div>
-
 
 <br>
 
 <div align="left">
-  <img align="center" alt="Coding" width="400" src="https://media.tenor.com/w0v-KYiUNXoAAAAd/family-guy-peter-griffin.gif" />
+  <img alt="Coding" width="400" src="https://media.tenor.com/w0v-KYiUNXoAAAAd/family-guy-peter-griffin.gif" />
 </div>
 
 <br>
 
 <div align="left">
   <h3>Tools and Technologies</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,mongodb,discord,firebase,flutter,stackoverflow&theme=dark" alt="Tech Stack" />
-   
-  </a>
-</div>
-
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,flutter,git,github,laravel,sqlite,postman,figma,npm,postgres,vscode&theme=dark" alt="Tech Stack" />
-  </a>
+  <div>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=aws,git,github,postman,npm,vscode&theme=dark" alt="Tools" />
+    </a>
+  </div>
+  <div>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,mongodb,firebase,flutter,laravel,sqlite,postgres&theme=dark" alt="Technologies" />
+    </a>
+  </div>
+  <div>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=discord,figma&theme=dark" alt="Software" />
+    </a>
+  </div>
 </div>
 
 <br>
