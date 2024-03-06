@@ -66,5 +66,3 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=laxnz&theme=dark" alt="GitHub Streak" />
 </div>
-
-<img src="https://wakatime.com/share/@LaXnZ/45d91da5-4c2b-40bd-a6ee-a1fef38b8011.svg"/>
