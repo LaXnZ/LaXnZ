@@ -13,6 +13,10 @@
   <a href="https://www.npmjs.com/~laxnz" target="_blank">
     <img src="https://skillicons.dev/icons?i=npm&theme=dark" alt="NPM" />
   </a>
+  <a href="https://www.instagram.com/lanzbutcoding/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="NPM" />
+  </a>
+
 </div>
 
 <br>
