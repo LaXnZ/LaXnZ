@@ -49,6 +49,14 @@
 <br>
 
 <div align="left">
+<h3>Visitors Count</h3></p>  
+<p align="left"><img align="left" src="https://profile-counter.glitch.me/{LaXnZ}/count.svg" /></p> 
+</div>
+
+<br>
+
+
+<div align="left">
   <h3>GitHub Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laxnz&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
 </div>
