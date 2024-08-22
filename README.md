@@ -44,14 +44,7 @@
   </div>
 </div>
 
-<br>
 
-<div align="left">
-  <h3>Visitors Count</h3>
- <img align="left" src="https://profile-counter.glitch.me/{LaXnZ}/count.svg" />
-</div>
-
-<br>
 
 
 <div align="left">
