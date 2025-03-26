@@ -57,9 +57,3 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=laxnz&show_icons=true&theme=dark&cache_seconds=1800&locale=en" alt="GitHub Stats" />
 </div>
-
-<br>
-
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laxnz&theme=dark" alt="GitHub Streak" />
-</div>
