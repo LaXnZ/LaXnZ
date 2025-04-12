@@ -11,6 +11,7 @@ I'm **Sumuditha Lansakara**, a passionate Product Engineer at [MetanaHQ](https:/
 [![NPM](https://skillicons.dev/icons?i=npm&theme=dark)](https://www.npmjs.com/~laxnz)
 [![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/lanzbutcoding/)
 
+
 ### 🛠️ Tools & Technologies
 
 [![HTML](https://skillicons.dev/icons?i=html&theme=dark)](https://skillicons.dev)
@@ -41,6 +42,5 @@ I'm **Sumuditha Lansakara**, a passionate Product Engineer at [MetanaHQ](https:/
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=laxnz&show_icons=true&theme=dark&cache_seconds=1800&locale=en)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=laxnz&show_icons=true&theme=dark&locale=en&layout=compact)
-
 
 > “Always learning, always building.”
