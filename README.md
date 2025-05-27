@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&pause=1000&color=B5F732&background=FFFFFF00&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sumuditha+Lansakara;Product+Engineer+%40+MetanaHQ;Software+Engineering+Undergraduate)](https://git.io/typing-svg)
 
 ### 👋 About Me
-I'm **Sumuditha Lansakara**, a passionate Product Engineer at [MetanaHQ](https://metana.io) and a Software Engineering undergraduate. I’m driven by clean code, problem-solving, and bringing ideas to life through software. I love full-stack development, working with modern frameworks, and sharing what I learn.
+I'm **Sumuditha Lansakara**, a passionate Associate Software Engineer at [RoboticGen](https://roboticgen.co/) and a Technical Writer. I’m driven by clean code, problem-solving, and bringing ideas to life through software. I love full-stack development, working with modern frameworks, and sharing what I learn.
 
 <img alt="Coding" width="400" src="https://media.tenor.com/w0v-KYiUNXoAAAAd/family-guy-peter-griffin.gif" />
 
