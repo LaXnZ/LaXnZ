@@ -7,7 +7,7 @@ Building internal tools, automating workflows, and writing about developer tech.
 ---
 
 __Links__  
-› Portfolio:      https://laxnz.me
+› Portfolio:      https://laxnz.me    
 › GitHub:         https://github.com/LaXnZ  
 › LinkedIn:       https://linkedin.com/in/sumuditha-lansakara  
 › Medium:         https://medium.com/@sumudithalanz  
