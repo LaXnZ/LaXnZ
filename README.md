@@ -1,4 +1,4 @@
-__Software Engineer__ | __Technical Writer__ | __Social Media Content Creator__
+__Software Engineer ' Technical Writer ' Graphic Designer ' ML Developer__
 
 Building internal tools, automating workflows, and writing about developer tech.
 
