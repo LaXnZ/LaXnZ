@@ -6,16 +6,15 @@ Building internal tools, automating workflows, and writing about developer tech.
 
 ---
 
-__Portfolio__  
-› https://laxnz.me
-
-__Socials__  
+__Links__  
+› Portfolio:      https://laxnz.me
 › GitHub:         https://github.com/LaXnZ  
 › LinkedIn:       https://linkedin.com/in/sumuditha-lansakara  
 › Medium:         https://medium.com/@sumudithalanz  
 › NPM:            https://www.npmjs.com/~laxnz  
 › Stack Overflow: https://stackoverflow.com/users/21833157/sumuditha-lansakara  
 › Instagram:      https://www.instagram.com/lanzbutcoding
+› Fiverr:         https://www.fiverr.com/lanzknight
 
 ---
 
