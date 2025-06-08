@@ -13,7 +13,7 @@ __Links__
 › Medium:         https://medium.com/@sumudithalanz  
 › NPM:            https://www.npmjs.com/~laxnz  
 › Stack Overflow: https://stackoverflow.com/users/21833157/sumuditha-lansakara  
-› Instagram:      https://www.instagram.com/lanzbutcoding
+› Instagram:      https://www.instagram.com/lanzbutcoding   
 › Fiverr:         https://www.fiverr.com/lanzknight
 
 ---
